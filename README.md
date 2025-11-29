@@ -18,8 +18,17 @@ Permite que clientes agendem cortes e que o barbeiro gerencie a agenda do dia.
 -  Envio de link de confirmação via WhatsApp.
 
 ## Prints
+### Tela de Login
+<img width="1919" height="1079" alt="Captura de tela 2025-11-28 224403" src="https://github.com/user-attachments/assets/1b13fa39-4c06-436f-a1c2-21e8f5694185" />
 
-*(Depois você edita aqui e cola os links das imagens que você me mandou)*
+### Dashboard do Barbeiro
+<img width="1919" height="1079" alt="Captura de tela 2025-11-28 224422" src="https://github.com/user-attachments/assets/2e411dcf-dab9-4fd5-85d4-c2de07d641d6" />
+
+### Agendamento do Cliente
+<img width="1919" height="1079" alt="Captura de tela 2025-11-28 224416" src="https://github.com/user-attachments/assets/0d88cc59-aa0f-4ee6-8332-03921cb7d508" />
+
+
+
 
 ## Como rodar localmente
 

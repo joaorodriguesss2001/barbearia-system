@@ -40,4 +40,4 @@ Permite que clientes agendem cortes e que o barbeiro gerencie a agenda do dia.
 6. Inicie o servidor: `python manage.py runserver`
 
 ---
-Desenvolvido por Joao Antonio Bonfim Rodrigues ( @joaorodriguesss_ ) (https://github.com/seusuer)
+Desenvolvido por Joao Antonio Bonfim Rodrigues ( @joaorodriguesss_ ) (https://github.com/joaorodriguesss2001)
